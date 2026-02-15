@@ -8,7 +8,7 @@
 
 I'm the **Founder & CEO of Built for Devs**, a software platform that bridges the gap between product teams and developers. We unlock candid developer feedback on products, helping founders and product leaders understand what developers truly want and need.
 
-As a **Part-Time CTO at StatIQ Analytics**, I also lead technical strategy for a real-time sports analytics platform. With previous experience as Head of Developer Relations at **Snapchat**, **Twitter**, and **General Mills**, I've gained unique insights into what makes products stick with developer communities. I combine this deep developer empathy with product strategy and technical expertise to help founders build solutions that resonate.
+As **Part-Time CTO at StatIQ Analytics**, I also lead technical strategy for a real-time sports analytics platform.
 
 I'm a **Keynote Speaker**, **Technical Leader**, and **ENTJ-A personality type** who thrives on solving hard problems and building products that matter.
 
