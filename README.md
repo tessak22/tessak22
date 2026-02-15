@@ -126,7 +126,7 @@ Leading technical strategy and architecture for a real-time sports analytics pla
 
 ## 🌐 Connect With Me
 
-- **Built for Devs:** [built-for-devs.com](https://built-for-devs-mvp.vercel.app)
+- **Built for Devs:** [builtfor.dev](https://builtfor.dev)
 - **Website:** [tessak22.com](https://tessakriesel.com)
 - **Email:** [me@tessak22.com](mailto:me@tessak22.com)
 - **Location:** MN → Texas
