@@ -16,7 +16,7 @@ I'm a **Keynote Speaker**, **Technical Leader**, and **ENTJ-A personality type**
 
 ## 💼 Professional Background
 
-- **Founder & CEO** | built-for-devs — Connecting product teams with authentic developer feedback
+- **Founder & CEO** | Built for Devs — Connecting product teams with authentic developer feedback
 - **Part-Time CTO** | StatIQ Analytics — Leading technical strategy and architecture for real-time sports analytics
 - **Head of Developer Relations** (Former) | Snapchat, Twitter, General Mills — Deep expertise in understanding developer needs and building community
 - **Keynote Speaker** | Product-Developer Fit, Founder Insights, Developer Experience
@@ -27,7 +27,7 @@ I'm a **Keynote Speaker**, **Technical Leader**, and **ENTJ-A personality type**
 ## 🛠️ Tech Stack & Skills
 
 ### Frontend Development
-- **Next.js 16** — Modern React framework with App Router
+- **Next.js** — Modern React framework with App Router
 - **TypeScript** — Strongly-typed JavaScript for scalable applications
 - **React** — UI component development
 - **shadcn/ui** — High-quality, accessible component library
@@ -68,7 +68,7 @@ I'm a **Keynote Speaker**, **Technical Leader**, and **ENTJ-A personality type**
 
 ## 📚 Current Projects & Leadership
 
-### **built-for-devs** (Founder & CEO | 115+ commits)
+### **Built for Devs** (Founder & CEO)
 A software platform that connects product teams with developers for candid product feedback. We help founders understand the real gaps between what they're building and what developers actually need. Our platform enables companies to gather authentic developer insights that drive smarter product decisions.
 
 **Key Features:**
@@ -79,11 +79,11 @@ A software platform that connects product teams with developers for candid produ
 - Comprehensive test coverage (35+ tests)
 - Production-ready architecture with 112+ deployments
 
-**Tech Stack:** Next.js 16 • TypeScript • Supabase • PostgreSQL • shadcn/ui • Vitest • Vercel
+**Tech Stack:** Next.js • TypeScript • Supabase • PostgreSQL • shadcn/ui • Vitest • Vercel
 
 **Impact:** Helping product leaders and founders bridge the gap between their vision and developer reality
 
-### **Control Plane Growth** (Recently Built)
+### **Control Plane Growth**
 An experimental control plane for managing growth strategies, agent skills, and developer messaging. This project explores advanced growth mechanisms and automation frameworks to scale built-for-devs capabilities.
 
 **Features:**
@@ -126,29 +126,8 @@ Leading technical strategy and architecture for a real-time sports analytics pla
 
 ## 🌐 Connect With Me
 
-- **built-for-devs:** [built-for-devs.com](https://built-for-devs-mvp.vercel.app)
+- **Built for Devs:** [built-for-devs.com](https://built-for-devs-mvp.vercel.app)
 - **Website:** [tessak22.com](https://tessakriesel.com)
 - **Email:** [me@tessak22.com](mailto:me@tessak22.com)
 - **Location:** MN → Texas
 - **Social:** [@tessak22](https://twitter.com/tessak22) | [LinkedIn](https://www.linkedin.com/in/tessak22/)
-
----
-
-## 🏢 Organizations
-
-- **built-for-devs** — Founder & CEO | Connecting product teams with authentic developer feedback
-- **StatIQ Analytics** — Part-Time CTO | Real-time sports analytics platform
-- **OutspokenWomen** — Community leadership
-- **GDI Minneapolis** — Girl Develop It community advocate
-
----
-
-## 💡 Philosophy
-
-I believe founders and product teams often miss critical insights because they're not hearing from developers with radical honesty. **built-for-devs** exists to fix that. By connecting product teams with real developers who'll give them candid feedback, we help companies build products that actually solve developer problems.
-
-At its core, it's about respect: respecting developers' time and expertise, and respecting founders' need for truth. The best products come from understanding both sides deeply.
-
----
-
-## 🚀 The Built-for-Dev
